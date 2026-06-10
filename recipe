@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Classic Homemade Pancakes</title>
+</head>
+<body>
+
+  <h1>Classic Homemade Pancakes</h1>
+  
+  <p>A quick and easy recipe for fluffy, golden pancakes that are perfect for a cozy weekend breakfast.</p>
+
+  <img src="https://cdn.freecodecamp.org/curriculum/labs/recipe.jpg" alt="A stack of delicious pancakes topped with a pat of melting butter and maple syrup">
+
+  <h2>Ingredients</h2>
+  <ul>
+    <li>1 cup all-purpose flour</li>
+    <li>2 tablespoons white sugar</li>
+    <li>1 cup milk (or buttermilk)</li>
+    <li>1 large egg, beaten</li>
+  </ul>
+
+  <h2>Instructions</h2>
+  <ol>
+    <li>In a large bowl, mix together the flour and sugar.</li>
+    <li>Pour in the milk and beaten egg, then stir until smooth.</li>
+    <li>Heat a lightly oiled griddle or frying pan over medium-high heat.</li>
+    <li>Pour or scoop the batter onto the griddle, and brown on both sides. Serve hot!</li>
+  </ol>
+
+</body>
+</html>
