@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="description" content="Discover incredible travel opportunities, custom packages, and breathtaking top itineraries with our premium travel agency.">
+    <title>Travel Agency Page</title>
+  </head>
+  <body>
+
+    <h1>Explore Our Dream Travel Destinations</h1>
+    <p>We offer world-class travel opportunities tailored to every adventurer. Whether you want to explore historical landmarks, climb grand peaks, or relax by the pristine ocean, we have the perfect getaway waiting for you.</p>
+
+    <h2>Packages</h2>
+    <p>Choose the travel style that fits your needs perfectly. We offer curated experiences designed for connection or ultimate privacy.</p>
+    
+    <ul>
+      <li>
+        <a href="https://www.freecodecamp.org/learn" target="_blank">Group Travels</a>
+      </li>
+      <li>
+        <a href="https://www.freecodecamp.org/learn" target="_blank">Private Tours</a>
+      </li>
+    </ul>
+
+    <h2>Top Itineraries</h2>
+
+    <figure>
+      <a href="https://www.freecodecamp.org/learn" target="_blank">
+        <img src="https://cdn.freecodecamp.org/curriculum/labs/colosseo.jpg" alt="The historic Roman Colosseum under a bright sky">
+      </a>
+      <figcaption>Explore the ancient wonders of Rome, Italy.</figcaption>
+    </figure>
+
+    <figure>
+      <a href="https://www.freecodecamp.org/learn" target="_blank">
+        <img src="https://cdn.freecodecamp.org/curriculum/labs/alps.jpg" alt="Snow-capped mountain peaks of the Alps">
+      </a>
+      <figcaption>Breathtaking hiking trails through the Swiss Alps.</figcaption>
+    </figure>
+
+    <figure>
+      <a href="https://www.freecodecamp.org/learn" target="_blank">
+        <img src="https://cdn.freecodecamp.org/curriculum/labs/sea.jpg" alt="Crystal clear turquoise sea water meeting a tropical beach">
+      </a>
+      <figcaption>Relax and unwind beside beautiful tropical oceans.</figcaption>
+    </figure>
+
+  </body>
+</html>
