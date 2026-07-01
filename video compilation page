@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Video Compilation Page</title>
+</head>
+
+<body>
+<main>
+  <h1>My Coding Journey Compilation</h1>
+  <p>Explore these essential web development videos covering HTML, CSS, and JavaScript basics to jumpstart your programming skills.</p>
+
+  <section>
+    <h2>Learn HTML Basics</h2>
+    <p>A comprehensive introduction to writing clean and semantic HTML5 documents.</p>
+    <iframe 
+      src="https://www.youtube.com/embed/tgbNymZ7vqY" 
+      title="HTML Introduction Video" 
+      width="560" 
+      height="315">
+    </iframe>
+  </section>
+
+  <section>
+    <h2>Mastering CSS Layouts</h2>
+    <p>Dive deep into Flexbox and Grid layouts to make your web pages beautifully responsive.</p>
+    <iframe 
+      src="https://www.youtube.com/embed/tgbNymZ7vqY" 
+      title="CSS Layouts Guide" 
+      width="560" 
+      height="315">
+    </iframe>
+  </section>
+
+  <section>
+    <h2>JavaScript Fundamentals</h2>
+    <p>Understand variables, loops, functions, and DOM manipulation to make interactive apps.</p>
+    <iframe 
+      src="https://www.youtube.com/embed/tgbNymZ7vqY" 
+      title="JavaScript Basics Tutorial" 
+      width="560" 
+      height="315">
+    </iframe>
+  </section>
+</main>
+</body>
+
+</html>
